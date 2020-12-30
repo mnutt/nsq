@@ -1,0 +1,15 @@
+github.com/BurntSushi/toml v0.0.0-20130929175405-2dff11163ee6 h1:mk3iNkH6IE+aS8Xi5dfasHQNtPGmBFy+Rn137Ko4Wn4=
+github.com/BurntSushi/toml v0.0.0-20130929175405-2dff11163ee6/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/bitly/go-hostpool v0.0.0-20130417212715-58b95b10d6ca h1:gG/OZtugfLmNHDQzkVt4iq4utlpYtimKmFMcCdbRqZk=
+github.com/bitly/go-hostpool v0.0.0-20130417212715-58b95b10d6ca/go.mod h1:NOuUCSz6Q9T7+igc/hlvDOUdtWKryOrtFyIVABv/p7k=
+github.com/bitly/go-nsq v1.0.1-0.20140825142257-ac221df5bdb6 h1:qCVAbjR9E0SZKlsKmJuDd2FbDtXSo6XBlP759GVx6/Q=
+github.com/bitly/go-nsq v1.0.1-0.20140825142257-ac221df5bdb6/go.mod h1:uRcXTyAr/ggVrYpmvkE4jkJNSWov99Gg4fwhhypc/P8=
+github.com/bitly/go-simplejson v0.4.4-0.20131009133020-fc395a5db941 h1:s85bRPjw3W442H8eApp4KM/unwXVSCBCNitUIdDa+6c=
+github.com/bitly/go-simplejson v0.4.4-0.20131009133020-fc395a5db941/go.mod h1:cXHtHw4XUPsvGaxgjIAn8PhEWG9NfngEKAMDJEczWVA=
+github.com/bitly/nsq v1.2.0 h1:GMpivNcYcW/74lfacVQvL0S/oiU0+WF0rV5BHLYfC8E=
+github.com/bmizerany/perks v0.0.0-20140429223840-6cb9d9d72930 h1:96htJKLOP8bziHYfiB1P1Jox0QVYfKP0cBBM7773OZk=
+github.com/bmizerany/perks v0.0.0-20140429223840-6cb9d9d72930/go.mod h1:ac9efd0D1fsDb3EJvhqgXRbFx7bs2wqZ10HQPeU8U/Q=
+github.com/mreiferson/go-options v0.0.0-20140216003954-896a539cd709 h1:mpPIovn/uKtieGXXOba8QY9VzCkp9KtLRzTRtJiIy+U=
+github.com/mreiferson/go-options v0.0.0-20140216003954-896a539cd709/go.mod h1:A0JOgZNsj9V+npbgxH0Ib75PvrHS6Ezri/4HdcTp/DI=
+github.com/mreiferson/go-snappystream v0.2.3 h1:ETSjz9NhUz13J3Aq0NisB/8h0nb2QG8DAcQNEw1T8cw=
+github.com/mreiferson/go-snappystream v0.2.3/go.mod h1:hPB+SkMcb49n7i7BErAtgT4jFQcaCVp6Vyu7aZ46qQo=
